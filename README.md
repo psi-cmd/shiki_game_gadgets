@@ -1,6 +1,8 @@
-# 一键接龙吊死鬼
+# shiki_game_gadgets
 
 socket.ahk 来自 https://github.com/G33kDude/Socket.ahk/blob/master/Socket.ahk
+
+目前包括接龙、吊死鬼游戏相关
 
 ### 使用方法
 
@@ -91,6 +93,5 @@ requirements: python>=3.6, autohotkey 以及 python 的 pyperclip 模块。
 $A_{10}^4$ 应该说是一个需要信息论解决的题？反正我比较菜，没学过信息论。最终目的是要充分利用每一次返回的信息，进行最合适的决策，得到平均最短策略。
 
 专业术语就 emmm，不混相关学科圈，内存都没预热，怎么查找。。费力找到了也没有用武之地，终究被 LRU 策略覆盖。可能的寻找方式一个是 wiki glossary，再高阶点就是从英文教材附录上撸词下来筛。过了解谜瘾后很快意识到耗不起（
-
 
 
