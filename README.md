@@ -4,6 +4,8 @@ socket.ahk 来自 https://github.com/G33kDude/Socket.ahk/blob/master/Socket.ahk
 
 目前包括接龙、吊死鬼游戏相关
 
+请在“合理的范围”，以“合法的方式”，在“不干扰全生态正常运行”的情况下使用，如有违反规定以至封号者，╮(╯▽╰)╭。
+
 ### 使用方法
 
 requirements: python>=3.6, autohotkey 以及 python 的 pyperclip 模块。
