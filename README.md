@@ -1,4 +1,4 @@
-## 一键接龙吊死鬼
+# 一键接龙吊死鬼
 
 socket.ahk 来自 https://github.com/G33kDude/Socket.ahk/blob/master/Socket.ahk
 
